@@ -15,11 +15,11 @@ Eclipse
 #### 游戏界面：
 ![这里写图片描述](http://img.blog.csdn.net/20180124135031202?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcTk4MjE1MTc1Ng==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 #### 游戏操作：
-w：上
-s：下
-a：左
-d：右
-j：发射子弹
+W：上
+S：下
+D：左
+A：右
+J：发射子弹
 #### 游戏画面：
 ![这里写图片描述](http://img.blog.csdn.net/20180124135806542?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcTk4MjE1MTc1Ng==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
